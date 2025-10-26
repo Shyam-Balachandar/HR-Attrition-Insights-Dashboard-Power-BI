@@ -40,7 +40,7 @@ A 2-page interactive Power BI dashboard using IBM's HR Analytics dataset from Ka
 
 ## 📄 Report & Portfolio
 
-📥 [Download PDF Report](./HR_Attrition_Project_Report.pdf)  
+📥 [Download PDF Report]([./HR_Attrition_Project_Report.pdf](https://github.com/Shyam-Balachandar/HR-Attrition-Insights-Dashboard-Power-BI/blob/main/HR%20Attrition%20Insights%20Dashboard.pdf))  
 🔗 [Visit My Portfolio](https://shyam-balachandar.github.io/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shyam-b-86a820177/)
 
