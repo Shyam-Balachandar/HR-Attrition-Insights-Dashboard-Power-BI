@@ -1,4 +1,4 @@
- HR Attrition Insights Dashboard – Power BI
+## HR Attrition Insights Dashboard – Power BI
 
 ## 🎯 Why This Project?
 
